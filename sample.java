@@ -1,5 +1,5 @@
-public class sample{
-  void display(){
-    System.out.println("hello from github");
-  }
+public class sample {
+    public static void main(String[] args) {
+        System.out.println("Hello, from github!");
+    }
 }
